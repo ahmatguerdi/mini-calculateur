@@ -1,0 +1,44 @@
+.msg{
+    color: blueviolet;
+    font-size: 5rem;
+    margin-top: 10%;
+    text-align: center;
+}
+.vente {
+  padding: 25px;
+}
+
+.revient {
+  padding: 20px;
+}
+
+#mom {
+  margin: 15px;
+}
+
+button {
+  border-radius: 10px;
+  color: white;
+  padding: 5px;
+  background-color: #0f1bca;
+}
+
+#mini {
+  text-align: center;
+  width: 35%;
+  border-radius: 15px;
+  padding: 10px;
+  margin-left: 32%;
+  margin-top: 2%;
+  background-color: #d1c8c8;
+  border: 20px;
+  border-color: blueviolet;
+
+}
+
+p {
+  color: rgb(123, 10, 216);
+  text-align: center;
+  padding: 10px;
+  margin: 2%;
+}
